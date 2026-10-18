@@ -1,0 +1,10 @@
+{
+  "skills": {
+    "ip-library-factory": {
+      "version": "1.1.1",
+      "url": "https://github.com/rrlan/skill-releases/releases/download/ip-library-factory-v1.1.1/ip-library-factory-1.1.1.zip",
+      "sha256": "aaf8b40f819124c2970ac7e4eaae8da618effa8de0d1b52945c5c28cbfa1ded4",
+      "source_commit": "28ff97a9528dc88f6416d7687d4ecb2e649d5f72"
+    }
+  }
+}
