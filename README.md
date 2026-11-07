@@ -2,6 +2,13 @@
 
 源码在私有仓库维护，这里只提供发行包、版本索引和通用下载入口。下载和安装不需要 GitHub/GitLab 账号。
 
+## 已发布 Skill 列表
+
+| Skill 名称 | 最新版本 | 核心能力简介 | 一键安装 / 更新命令 |
+|---|---|---|---|
+| `pure-code-video` | `1.2.0` | 530+ 纯代码视频风格选片台、60fps 虚拟时钟渲染、手绘水彩引擎、12 款 BPM/Bit 节拍合成器、109 款 CC0 音效 `-16 LUFS` 混音、真人录音预剪/音色克隆/逐字字幕对齐（[在线选片与试听台](https://rrlan.github.io/pure-code-video/)） | `curl -fsSL https://raw.githubusercontent.com/rrlan/skill-releases/main/install.py -o /tmp/rrlan-skill-install.py && python3 /tmp/rrlan-skill-install.py pure-code-video` |
+| `ip-library-factory` | `1.1.1` | 原创 IP 角色素材库工厂（身份锁定、三视图母版、低中高电量状态、透明 PNG 与社媒封面规范） | `curl -fsSL https://raw.githubusercontent.com/rrlan/skill-releases/main/install.py -o /tmp/rrlan-skill-install.py && python3 /tmp/rrlan-skill-install.py ip-library-factory` |
+
 ## 安装与更新
 
 需要已有 Python 3.9+ 和 Node.js/npm，并能访问 GitHub、npm 和 Python 包下载源。

@@ -9,8 +9,8 @@
     "pure-code-video": {
       "version": "1.2.0",
       "url": "https://github.com/rrlan/skill-releases/releases/download/pure-code-video-v1.2.0/pure-code-video-1.2.0.zip",
-      "sha256": "6f9f894de7fe4359e52cbd23db018aaf2987d6bbbaf3ef9a20369fb22d15bb76",
-      "source_commit": "d49352fae5c81944b4ff15aa09c28e3737cd8c9e"
+      "sha256": "734478724ddc182954395e20b18dfa65e719f6c73ac8f42ed85c3e07b7412c1c",
+      "source_commit": "421f7e5e4e5618ed1e12546f68cb4876238d9734"
     }
   }
 }
