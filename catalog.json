@@ -7,10 +7,10 @@
       "source_commit": "28ff97a9528dc88f6416d7687d4ecb2e649d5f72"
     },
     "pure-code-video": {
-      "version": "1.0.0",
-      "url": "https://github.com/rrlan/skill-releases/releases/download/pure-code-video-v1.0.0/pure-code-video-1.0.0.zip",
-      "sha256": "895ccfee2abe3fa9f0942e6d824f252494372c8e8c57b20e514946c10bd7527d",
-      "source_commit": "f225f5a56d7ef577959d1a0de8370107d65938c0"
+      "version": "1.1.0",
+      "url": "https://github.com/rrlan/skill-releases/releases/download/pure-code-video-v1.1.0/pure-code-video-1.1.0.zip",
+      "sha256": "9669e167fdf87fec74b4a26a3779668839943d9c0d811d72e460a2e48a1ade83",
+      "source_commit": "872d633e26facd1bcdbd7f7a37ff76401658d8d7"
     }
   }
 }
